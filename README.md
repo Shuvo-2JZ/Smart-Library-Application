@@ -9,7 +9,7 @@ It can be use like a Book Library. Where student can Issue book and Return book 
 2. sqlite database.
 3. Jtatto.
 
-### Installing
+### Installation
 
 ```
 Clone/Download Zip
